@@ -1,5 +1,5 @@
 /**
- * AUTHOR: Elliott Wobler
+ * AUTHOR: wobkat
  * DESCRIPTION:
  * - loads image to limit rendering area
  * - enables calibration of rendering area for keystoning on physical objects

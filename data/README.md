@@ -1,1 +1,0 @@
-This is the directory where Processing will search for your data files. For this project to run properly, you should put your own "image.jpg" and "video.mov" files here.
